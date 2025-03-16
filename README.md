@@ -1,1 +1,1 @@
-descriptive analysis for a car shop dataset 
+describtive analysis for a small car shop 
